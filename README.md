@@ -1,8 +1,8 @@
 # Ex-3-Implement-Depth-First-Search-Traversal-of-a-Graph
 
-**Name:**
+**Name:S Mukesh**
 
-**Register Number:**
+**Register Number:2305002016**
 
 ### Aim:
 To Implement Depth First Search Traversal of a Graph using Python 3.
@@ -71,5 +71,5 @@ D E
 
 
 
-**Result:
+**Result:**
 Thus,the program to Implement-Depth-First-Search-Traversal-of-a-Graph is successfully executed.
