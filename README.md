@@ -62,10 +62,14 @@ B E
 C E
 D E
 
-### Sample Output:
+ Output:
+<img width="861" height="52" alt="Screenshot 2025-09-22 210533" src="https://github.com/user-attachments/assets/0dc683e6-ed1c-478b-9b41-e47d550fb43a" />
 
-Graph: {'A': ['B', 'C'], 'B': ['A', 'D', 'E'], 'C': ['A', 'E'], 'D': ['B', 'E'], 'E': ['B', 'C', 'D']}
+<img width="447" height="136" alt="Screenshot 2025-09-22 210529" src="https://github.com/user-attachments/assets/f8e04693-1034-4d98-a9f3-89ce33a03902" />
 
-DFS Traversal Path: ['A', 'B', 'D', 'E', 'C']
 
-**Result:**
+
+
+
+**Result:
+Thus,the program to Implement-Depth-First-Search-Traversal-of-a-Graph is successfully executed.
